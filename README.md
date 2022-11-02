@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kaikyuji
-- 👀 I’m interested ...
-- 🌱 I’m currently learning CSS3 & HTML5 ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kaikyuji/kaikyuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Kaiky Yuji Kohatsu
+- 18yo
+- aspirant software engineer
+- learning JS rn
